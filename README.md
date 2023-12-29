@@ -1,9 +1,5 @@
 <h1 align="center">Hi there👋, I'm Teddy Andriamampionona</h1>
-<h3 align="center">A young Web Developper at Wild Code School</h3>
-
-- 🔭 I’m currently working on **Blue Line project**
-
-- 🌱 I’m currently learning **PHP (Symfony) / Sass and Bootstrap**
+<h3 align="center">A young Web Developper</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
