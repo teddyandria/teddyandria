@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teddy ANDRIAMAMPIONONA</h1>
-<h3 align="center">A passionate web developper</h3>
-
-- 🌱 I’m currently learning **ReactJS / GraphQL / Typescript / Postgresql**
+<h3 align="center">Web developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
